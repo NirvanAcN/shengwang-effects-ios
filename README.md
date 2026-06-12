@@ -2,6 +2,8 @@
 
 本项目是**商汤科技**提供的[**特效引擎 SDK**](https://sensear.softsugar.com/) 在声网实时音视频基础上集成`SenseMe Effects`特效引擎（下称「Effects」）SDK的iOS演示工程。
 
+> Public release pipeline test: this line verifies sanitized snapshot publishing to a temporary GitHub fork.
+
 
 
 关于SenseAR Effects特效引擎iOS SDK详细介绍见[*仓库*](https://github.com/SoftSugar-Inc/effects-ios)。
@@ -160,4 +162,3 @@ buffer输入/输出
 
 - 如果您在使用过程中有遇到什么问题，欢迎提交 [**issue**](https://github.com/SoftSugar-Inc/shengwang-effects-ios/issues)。
 - 我们真诚地感谢您的贡献，欢迎通过 GitHub 的 fork 和 pull request 流程来提交代码。代码风格请参考[**Coding Guidelines for Cocoa**](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
-
